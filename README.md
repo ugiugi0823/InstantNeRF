@@ -1,6 +1,7 @@
 # InstantNeRF
 
 
+![nerf_graph](https://user-images.githubusercontent.com/106899647/219935382-6e8b05de-ee1e-4add-8298-dd753b126d5f.jpg)
 
 
 
